@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Open HTML 1.html",
+      "file": "d:\\Luthfi\\Project Coding\\HTML 1.html"
+    }
+  ]
+}
